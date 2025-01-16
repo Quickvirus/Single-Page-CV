@@ -1,0 +1,4 @@
+single-page-cv/
+│
+├── index.html        # Main HTML file
+└── style.css         # CSS file for styling
